@@ -1,1 +1,1 @@
-# 3.6-PyTest-
+# 3.6-PyTest: [Домашнее задание по курсу Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/lesson/237240/step/9?unit=209628)
